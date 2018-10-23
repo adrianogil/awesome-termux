@@ -26,6 +26,12 @@ A list of awesome things related to Termux
 Simple "bridge" that allows applications not running under Termux to execute shell commands within the Termux environment and getting their output.
  - [Hacking Tools from Termux oficial page](https://wiki.termux.com/wiki/Hacking)
 
+## Programming
+
+### Using Jupyter notebooks
+http://www.leouieda.com/blog/scipy-on-android.html
+
+
 ## Bash Tips
 
 How to check if a script is running inside Termux
