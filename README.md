@@ -12,6 +12,11 @@ A list of awesome things related to Termux
 ## Remote Connection Tips
 - https://github.com/tomhiggins/TermuxSSHDsetup Scripts and notes for setting up and using SSHd on your Android device using Termux so that you can SSH, SFTP, and SSHFS to your Android
 
+## Utils
+- How to browser internet inside Termux - https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android 
+- Play mp3 files - https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux
+- Open URL from Termux - https://github.com/termux/termux-packages/issues/166
+
 ## Android Hacking
 - https://github.com/4544fa8d/AndroTermux Simple way to build Android apps in Termux.
 - https://github.com/TheDiamondYT1/termux-buildapk A simple build script to quickly build Android apps on termux. Nothing major. Doesnt work for gradle.
@@ -28,9 +33,11 @@ Simple "bridge" that allows applications not running under Termux to execute she
 
 ## Programming
 
-### Using Jupyter notebooks
+### Python
+- Installing scipy
+https://wiki.termux.com/wiki/Installing_Scipy_The_Easy_Way
+- Using Jupyter notebooks
 http://www.leouieda.com/blog/scipy-on-android.html
-
 
 ## Bash Tips
 
