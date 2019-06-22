@@ -1,4 +1,4 @@
-# Awesome-Termux
+# Awesome-Termux [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of awesome things related to Termux
 
@@ -52,3 +52,7 @@ if [[ $0 == *termux* ]]; then
 fi
 ```
 
+## Related lists
+
+- [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux)
