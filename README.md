@@ -1,4 +1,4 @@
-# Awesome-Termux [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Termux [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of awesome things related to Termux
 
@@ -55,4 +55,5 @@ fi
 ## Related lists
 
 - [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking)
 - [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux)
