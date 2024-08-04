@@ -10,6 +10,7 @@ A list of awesome things related to Termux
 - https://github.com/moverest/termux-smses A simple fish script to send sms interactively with termux.
 
 ## Remote Connection Tips
+- https://wiki.termux.com/wiki/Remote_Access Some tips on setting up remote access to Termux
 - https://github.com/tomhiggins/TermuxSSHDsetup Scripts and notes for setting up and using SSHd on your Android device using Termux so that you can SSH, SFTP, and SSHFS to your Android
 
 ## Utils
