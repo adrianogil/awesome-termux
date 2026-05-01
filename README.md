@@ -13,6 +13,9 @@ A list of awesome things related to Termux
 - https://wiki.termux.com/wiki/Remote_Access Some tips on setting up remote access to Termux
 - https://github.com/tomhiggins/TermuxSSHDsetup Scripts and notes for setting up and using SSHd on your Android device using Termux so that you can SSH, SFTP, and SSHFS to your Android
 
+## AI & Automation
+- [REDMYTHOS CLAW](https://github.com/pentrestion/redmythos-claw) — The ultimate autonomous AI agent framework for Termux. Powered by Gemini, featuring dynamic tools and agentic reasoning.
+
 ## Utils
 - How to browser internet inside Termux - https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android
 - Play mp3 files - https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux
