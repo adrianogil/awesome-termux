@@ -39,6 +39,7 @@ Simple "bridge" that allows applications not running under Termux to execute she
 https://wiki.termux.com/wiki/Installing_Scipy_The_Easy_Way
 - Using Jupyter notebooks
 http://www.leouieda.com/blog/scipy-on-android.html
+- [termux-playwright](https://github.com/uno-km/termux-playwright-demo) - Run genuine Playwright & Chromium browser automation and web scraping directly on Android Termux without root.
 
 ### R
 - https://conr.ca/post/installing-r-on-android-via-termux/
