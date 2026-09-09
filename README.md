@@ -17,6 +17,7 @@ A list of awesome things related to Termux
 - How to browser internet inside Termux - https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android
 - Play mp3 files - https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux
 - Open URL from Termux - https://github.com/termux/termux-packages/issues/166
+- [Antigravity CLI for Termux](https://github.com/javedahmed82/antigravity-termux) - Run Google Antigravity AI CLI (`agy`) effortlessly on Android Termux with a single command.
 
 ## Android Hacking
 - https://github.com/4544fa8d/AndroTermux Simple way to build Android apps in Termux.
